@@ -1,68 +1,88 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Teste Front-end
+#SP Rotas
 
-## Available Scripts
+Neste teste serão avaliados seus conhecimentos em HTML, CSS e JavaScript, a criatividade e metodologia aplicada no desenvolvimento, a usabilidade e design da aplicação final.
 
-In the project directory, you can run:
 
-### `npm start`
+## Summary
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  - [Início](#Início)
+  - [Requisitos](#Requesitos)
+  - [Instalação](#Instalação)
+  - [Testes](#Test)
+  - [Deploy](#Deploy)
+  - [Padrão-a-seguir](#Padrão-a-seguir)
+  - [Autor](#Autor)
+  - [Tecnologias utilizadas](#Tecnologias-utilizadas)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Início
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Essas instruções fornecerão uma cópia do projeto em execução no
+sua máquina local para fins de desenvolvimento e teste. Ver deploy
+para obter notas sobre como rodar o projeto na sua máquina.
 
-### `npm run build`
+### Requisitos
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+O que você precisa para instalar a App e como instalá-lo.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador.
+* **[Create React App](https://github.com/facebook/create-react-app)**
 
-### `npm run eject`
+### Instalação
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Instale as dependências do projeto.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Execute o comando
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    npm install
 
-## Learn More
+Ou
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    yarn install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Inicie o projeto com o comando.
+ 
+    npm install
 
-### Code Splitting
+Ou
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+    yarn start
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### Testes
 
-### Making a Progressive Web App
+Executes os testes executando os seguintes programas
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+    npmn test
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## Deploy
 
-### Deployment
+Não serão feitos deploy, por ser uma app de test.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+## Padrão a seguir
 
-### `npm run build` fails to minify
+  - [Contributor Covenant](https://www.contributor-covenant.org/) - Usei
+    para o Código de Conduta
+  - [Creative Commons](https://creativecommons.org/) - Licença
+  - Linter - Padrão de códificação
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Autores
+
+  - **Mário Francisco Batalha Silva**  -
+    [Mário Batalha](https://github.com/MarioBatalha)
+
+
+## Tecnologias utilizadas
+
+  - ReactJS (react-router, axios, react-bootstrap, react-redux)
+  - Frameworks CSS
+  - Pré-processadores CSS (SCSS)
+  - HTML5
+  - Bibliotecas e APIs de Mapas (Google Maps API)
+
+google api key: AIzaSyBSGrxCW3NJyZXWFyf2-gA8c5pm6yksvjw
