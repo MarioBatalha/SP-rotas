@@ -45,7 +45,7 @@ Ou
 
 - Inicie o projeto com o comando.
  
-    npm install
+    npm start
 
 Ou
 
@@ -84,5 +84,3 @@ Não serão feitos deploy, por ser uma app de test.
   - Pré-processadores CSS (SCSS)
   - HTML5
   - Bibliotecas e APIs de Mapas (Google Maps API)
-
-google api key: AIzaSyBSGrxCW3NJyZXWFyf2-gA8c5pm6yksvjw
